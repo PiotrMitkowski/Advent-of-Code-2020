@@ -1,3 +1,7 @@
+/**
+ * link: https://adventofcode.com/2020/day/1
+ *
+ */
 const fs = require('fs');
 
 const filePath = __dirname + '/input.txt';
