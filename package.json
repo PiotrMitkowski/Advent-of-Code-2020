@@ -5,7 +5,8 @@
   "main": "task-1/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "task-1": "node task-1"
+    "task-1": "node task-1",
+    "task-2": "node task-2"
   },
   "author": "",
   "license": "MIT",
