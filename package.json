@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "task-1": "node task-1",
-    "task-2": "node task-2"
+    "task-2": "node task-2",
+    "task-3": "node task-3"
   },
   "author": "",
   "license": "MIT",
